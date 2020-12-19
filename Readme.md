@@ -1,5 +1,8 @@
 ## Titanic
 Определения вероятности спасения пассажира
+## Online demo on share.streamlit
+https://share.streamlit.io/akoshel/made_ml_hw/titanic_demo.py
+## Ниже инструкция чтобы запустить локально
 ## Installation
 Установите пакеты из корня
 ```bash
